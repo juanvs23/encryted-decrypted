@@ -1,0 +1,6 @@
+INPUT_FOLDER = nameinputFolder
+OUTPUT_FOLDER = nameoutputFolder
+CRON_TIME = * */1 * * *
+CURVE = ed25519
+EMAIL = example@example.com
+NAME = exampleName

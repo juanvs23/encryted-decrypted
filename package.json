@@ -1,0 +1,25 @@
+{
+  "name": "read-documents",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "cron": "^1.8.2",
+    "dotenv": "^14.3.2",
+    "express": "^4.17.2",
+    "openpgp": "^5.1.0",
+    "yargs": "^17.3.1"
+  }
+}
